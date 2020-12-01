@@ -5,5 +5,3 @@
 
 * Technologies: C,MPI.
 
-# ProuhetTarryEscottproblem
-
