@@ -1,0 +1,1 @@
+# Prouhet-Tarry-Escott-Problem
